@@ -1,11 +1,11 @@
 # TestWeb
-这是一个用于演示的Web项目。
+This is a demo web project.
 
-## 项目简介
-本项目旨在展示如何在README中添加描述和图片。
+## Project Introduction
+This project demonstrates how to add descriptions and images in a README file.
 
-## 示例图片
-![图片3](../images/image.png) 
+## Example Image
+![Image 3](../images/image.png)
 
-## 示例图片2
-![图片3](../images/image2.png) 
+## Example Image 2
+![Image 3](../images/image2.png)
