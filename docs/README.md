@@ -9,3 +9,6 @@ This project demonstrates how to add descriptions and images in a README file.
 
 ## Example Image 2
 ![Image 3](../images/image2.png)
+
+## Example Image 3
+![Image 3](../images/image2.png)
